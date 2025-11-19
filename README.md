@@ -51,33 +51,33 @@ Using Python and Jupyter Notebook, this project analyzes:
   Here are insights you can include (modify based on your actual results):
 
 # Loan Status Distribution
-> Majority of loans are Fully Paid, followed by Charged Off.
-> A smaller portion remains Current.
+<br>. Majority of loans are Fully Paid, followed by Charged Off.
+<br>. A smaller portion remains Current.
 
 # High-Risk Borrower Characteristics
 Borrowers with:
-> High Debt-to-Income ratio
-> Lower annual income
-> Poor credit history
+<br>. High Debt-to-Income ratio
+<br>. Lower annual income
+<br>. Poor credit history
 are more likely to default.
 
 # Loan Amount Trends
-> Most funded loans fall between X – Y range.
-> A small percentage of borrowers take very large loans.
+<br>. Most funded loans fall between X – Y range.
+<br>. A small percentage of borrowers take very large loans.
 
 # Purpose of Loan
 Common loan purposes:
-> Debt consolidation
-> Credit card payments
-> Home improvement
+<br>. Debt consolidation
+<br>. Credit card payments
+<br>. Home improvement
 
 # Monthly/Yearly Trends
-> Loan applications increased significantly during ______ (year/month).
-> Seasonal patterns observed (if any).
+<br>. Loan applications increased significantly during ______ (year/month).
+<br>. Seasonal patterns observed (if any).
 
 # Interest Rate Insights
-> Higher interest rates are associated with higher default probability.
-> Borrowers with good credit receive lower interest rates.
+<br>. Higher interest rates are associated with higher default probability.
+<br>. Borrowers with good credit receive lower interest rates.
 ️
 # Home Ownership Comparison
 > Homeowners (MORTGAGE/OWN) show lower default rates compared to renters.
