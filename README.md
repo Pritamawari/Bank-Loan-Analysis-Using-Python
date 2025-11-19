@@ -12,35 +12,35 @@
 # Project Overview
 The main objective of this project is to understand loan approval trends, borrower characteristics, and factors that influence loan repayment or default.
 Using Python and Jupyter Notebook, this project analyzes:
-<br> Loan funded amount and distribution
+> Loan funded amount and distribution
 
-<br> Borrower demographics
+> Borrower demographics
 
-<br> Loan status (Fully Paid, Charged Off, Current, etc.)
+> Loan status (Fully Paid, Charged Off, Current, etc.)
 
-<br> Trends over time
+> Trends over time
 
-<br> Risky borrower segments
+> Risky borrower segments
 
-<br> Insights to support decision-making for financial institutions
+> Insights to support decision-making for financial institutions
 
 # Tools & Technologies Used
   # Programming & Environment
-    <br>. Python 3
+    > Python 3
     
-    <br>.Jupyter Notebook
+    > Jupyter Notebook
 
   # Python Libraries
-    <br>.Pandas → data manipulation
-    <br>.NumPy → numerical operations
-    <br>.Matplotlib / Plotly / Seaborn → data visualization
-    <br>.Scikit-learn (if ML used) → model building
-    <br>.Datetime → date handling
+    > Pandas → data manipulation
+    > NumPy → numerical operations
+    > Matplotlib / Plotly / Seaborn → data visualization
+    > Scikit-learn (if ML used) → model building
+    > Datetime → date handling
 
   # Platform
-    <br>.GitHub
-    <br>.Jupyter Notebook
-    <br>.VS Code / Anaconda (optional)
+    > GitHub
+    > Jupyter Notebook
+    > VS Code / Anaconda (optional)
 
  # Project Structure
    │── Bank Loan.ipynb
@@ -49,61 +49,61 @@ Using Python and Jupyter Notebook, this project analyzes:
    └── images/      (optional: graphs & charts)
 
 # Major Insights from the Project
-Here are insights you can include (modify based on your actual results):
+  Here are insights you can include (modify based on your actual results):
 
 # Loan Status Distribution
-<br>.Majority of loans are Fully Paid, followed by Charged Off.
-<br>.A smaller portion remains Current.
+> Majority of loans are Fully Paid, followed by Charged Off.
+> A smaller portion remains Current.
 
 # High-Risk Borrower Characteristics
 Borrowers with:
-<br>.High Debt-to-Income ratio
-<br>.Lower annual income
-<br>.Poor credit history
+> High Debt-to-Income ratio
+> Lower annual income
+> Poor credit history
 are more likely to default.
 
 # Loan Amount Trends
-<br>.Most funded loans fall between X – Y range.
-<br>.A small percentage of borrowers take very large loans.
+> Most funded loans fall between X – Y range.
+> A small percentage of borrowers take very large loans.
 
 # Purpose of Loan
 Common loan purposes:
-<br>.Debt consolidation
-<br>.Credit card payments
-<br>.Home improvement
+> Debt consolidation
+> Credit card payments
+> Home improvement
 
 # Monthly/Yearly Trends
-<br>.Loan applications increased significantly during ______ (year/month).
-<br>.Seasonal patterns observed (if any).
+> Loan applications increased significantly during ______ (year/month).
+> Seasonal patterns observed (if any).
 
 # Interest Rate Insights
-<br>.Higher interest rates are associated with higher default probability.
-<br>.Borrowers with good credit receive lower interest rates.
+> Higher interest rates are associated with higher default probability.
+> Borrowers with good credit receive lower interest rates.
 ️
 # Home Ownership Comparison
-<br>.Homeowners (MORTGAGE/OWN) show lower default rates compared to renters.
+> Homeowners (MORTGAGE/OWN) show lower default rates compared to renters.
 
 # Visualizations Included
 You may list charts you created:
-<br>.Loan status bar chart
-<br>.Loan amount distribution histogram
-<br>.Purpose of loan pie chart
-<br>.Heatmap (correlations)
-<br>.Loan trends over time
-<br>.Home ownership vs funded amount (treemap)
-<br>.Income vs loan amount scatter plot
+> Loan status bar chart
+> Loan amount distribution histogram
+> Purpose of loan pie chart
+> Heatmap (correlations)
+> Loan trends over time
+> Home ownership vs funded amount (treemap)
+> Income vs loan amount scatter plot
 
 # Future Enhancements
 You can include these:
-<br>.Add a machine learning model to predict loan default
-<br>.Create a dashboard using Power BI / Tableau / Streamlit
-<br>.Deploy the project online
-<br>.Add more datasets
+> Add a machine learning model to predict loan default
+> Create a dashboard using Power BI / Tableau / Streamlit
+> Deploy the project online
+> Add more datasets
 
 # Conclusion
 This project helps banks and financial institutions to:
-<br>.Understand borrower risk
-<br>.Improve lending decisions
-<br>.Reduce default rates
-<br>.Make data-driven financial strategies
+> Understand borrower risk
+> Improve lending decisions
+> Reduce default rates
+> Make data-driven financial strategies
 
