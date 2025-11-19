@@ -84,13 +84,13 @@ Common loan purposes:
 
 # Visualizations Included
 You may list charts you created:
-> Loan status bar chart
-> Loan amount distribution histogram
-> Purpose of loan pie chart
-> Heatmap (correlations)
-> Loan trends over time
-> Home ownership vs funded amount (treemap)
-> Income vs loan amount scatter plot
+<br>. Loan status bar chart
+<br>. Loan amount distribution histogram
+<br>. Purpose of loan pie chart
+<br>. Heatmap (correlations)
+<br>. Loan trends over time
+<br>. Home ownership vs funded amount (treemap)
+<br>. Income vs loan amount scatter plot
 
 # Future Enhancements
 You can include these:
