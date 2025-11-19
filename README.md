@@ -94,10 +94,10 @@ You may list charts you created:
 
 # Future Enhancements
 You can include these:
-> Add a machine learning model to predict loan default
-> Create a dashboard using Power BI / Tableau / Streamlit
-> Deploy the project online
-> Add more datasets
+<br>. Add a machine learning model to predict loan default
+<br>. Create a dashboard using Power BI / Tableau / Streamlit
+<br>. Deploy the project online
+<br>. Add more datasets
 
 # Conclusion
 This project helps banks and financial institutions to:
