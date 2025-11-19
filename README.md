@@ -1,10 +1,10 @@
 # Bank-Loan-Analysis-Using-Python
 
 # Bank Loan Analysis & Insights (Python + Jupyter Notebook)
-This project performs complete analysis of bank loan data using Python.
-It includes data cleaning, preprocessing, EDA (Exploratory Data Analysis),
-visualization, and extraction of business insights that help understand loan performance, 
-borrower behavior, and risk factors.
+  This project performs complete analysis of bank loan data using Python.
+  It includes data cleaning, preprocessing, EDA (Exploratory Data Analysis),
+  visualization, and extraction of business insights that help understand loan performance, 
+  borrower behavior, and risk factors.
 
 <img width="284" height="177" alt="image" src="https://github.com/user-attachments/assets/ba2a23f9-1530-47ac-a927-bd3fc475cbf0" />
 
@@ -13,15 +13,21 @@ borrower behavior, and risk factors.
 The main objective of this project is to understand loan approval trends, borrower characteristics, and factors that influence loan repayment or default.
 Using Python and Jupyter Notebook, this project analyzes:
 <br> Loan funded amount and distribution
+
 <br> Borrower demographics
+
 <br> Loan status (Fully Paid, Charged Off, Current, etc.)
+
 <br> Trends over time
+
 <br> Risky borrower segments
+
 <br> Insights to support decision-making for financial institutions
 
 # Tools & Technologies Used
   # Programming & Environment
     <br>. Python 3
+    
     <br>.Jupyter Notebook
 
   # Python Libraries
