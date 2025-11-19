@@ -1,6 +1,5 @@
 # Bank-Loan-Analysis-Using-Python
 
-# Bank Loan Analysis & Insights (Python + Jupyter Notebook)
   This project performs complete analysis of bank loan data using Python.
   It includes data cleaning, preprocessing, EDA (Exploratory Data Analysis),
   visualization, and extraction of business insights that help understand loan performance, 
