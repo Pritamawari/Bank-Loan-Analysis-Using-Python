@@ -102,10 +102,7 @@ You can include these:
 # Conclusion
 This project helps banks and financial institutions to:
 <br>. Understand borrower risk
-
 <br>. Improve lending decisions
-
 <br>. Reduce default rates
-
 <br>. Make data-driven financial strategies
 
