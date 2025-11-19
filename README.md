@@ -42,8 +42,8 @@ Using Python and Jupyter Notebook, this project analyzes:
     > VS Code / Anaconda (optional)
 
  # Project Structure
-  <br> .│── Bank Loan.ipynb
-  <br>. │── dataset.csv  (if uploading)
+   <br>.│── Bank Loan.ipynb
+   <br>.│── dataset.csv  (if uploading)
    <br>.│── README.md
    <br>.└── images/      (optional: graphs & charts)
 
